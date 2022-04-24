@@ -1,5 +1,9 @@
+Copiá todo el punto 1 y 2 y luego codificá ...
+
 1. Modelar las instrucciones LODV, SWAP y ADD.
+
 2. Implementar el siguiente programa, que permite sumar 10 + 22
+
 <img src="https://raw.githubusercontent.com/pdep-utn/mumuki-guia-haskell-primer-tp-funcional-2022/master/assets/Captura1_1650467301210.PNG" alt="Captura1_1650467301210.PNG" width="auto" height="auto">
 Debe procurar no repetir el código para aumentar el program counter.
 
