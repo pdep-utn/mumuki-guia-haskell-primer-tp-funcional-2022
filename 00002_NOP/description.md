@@ -1,3 +1,5 @@
+Copiá el punto 1 y luego codificá...
+
 Para que funcionen los test tener en cuenta:
 * NOP incrementa el program counter.
 
@@ -9,8 +11,11 @@ Para que funcionen los test tener en cuenta:
 
 2. Desde la consola, modele un programa que haga avanzar tres posiciones el program counter.
 Para que funcionen los test tener en cuenta:
+
 NOP 
+
 NOP 
+
 NOP
 
 3. ¿Qué concepto interviene para lograr este punto?
